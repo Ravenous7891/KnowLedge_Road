@@ -3,8 +3,11 @@
 #### 介绍
 本软件为免费软件，著作权及相关权利归 Ravenous 所有。
 您可免费下载、安装、使用本软件用于个人学习、研究等非商业目的。
-备用链接1: https://pan.baidu.com/s/1Kie7shHuowtT7djk1gHuog?pwd=RaK6 备用链接2：https://pan.xunlei.com/s/VOv4i7f_EvlK7qOhf6BfLmGpA1?pwd=42ss
-
+链接1: https://pan.baidu.com/s/1Kie7shHuowtT7djk1gHuog?pwd=RaK6 
+链接2：https://pan.xunlei.com/s/VOv4i7f_EvlK7qOhf6BfLmGpA1?pwd=42ss 
+链接3：https://github.com/Ravenous7891/KnowLedge_Road/releases/tag/KnowLedge_Road_v1.0.6
+目前软件的题库只有一点点，还是较少的，后面会加入更多的题库的
+并且，该软件完全是在本地运行的，不上传任何数据到服务端（本软件没有设置服务端，请仔细甄别），因此也会导致在一个设备注册的账号无法在其他设备登陆
 
 #### 安装教程
 
