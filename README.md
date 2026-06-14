@@ -3,7 +3,7 @@
 #### 介绍
 本软件为免费软件，著作权及相关权利归 Ravenous 所有。
 您可免费下载、安装、使用本软件用于个人学习、研究等非商业目的。
-因为电脑端文件太大了，请大家去网盘链接下载,链接: https://pan.baidu.com/s/1Kie7shHuowtT7djk1gHuog?pwd=RaK6 备用地址：https://pan.xunlei.com/s/VOv4i7f_EvlK7qOhf6BfLmGpA1?pwd=42ss
+备用链接1: https://pan.baidu.com/s/1Kie7shHuowtT7djk1gHuog?pwd=RaK6 备用链接2：https://pan.xunlei.com/s/VOv4i7f_EvlK7qOhf6BfLmGpA1?pwd=42ss
 
 
 #### 安装教程
